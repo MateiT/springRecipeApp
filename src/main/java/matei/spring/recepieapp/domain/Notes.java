@@ -20,11 +20,11 @@ public class Notes {
         this.id = id;
     }
 
-    public Recipe getRecepie() {
+    public Recipe getRecipe() {
         return recipe;
     }
 
-    public void setRecepie(Recipe recipe) {
+    public void setRecipe(Recipe recipe) {
         this.recipe = recipe;
     }
 
